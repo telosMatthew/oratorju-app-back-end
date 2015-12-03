@@ -1,0 +1,12 @@
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.dll.config
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.dll
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.pdb
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.dll
+C:\Users\Matthew\Desktop\Telos - SeekAndReach\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.pdb
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.dll
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\obj\Debug\OratorjuMSSPService.pdb
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.dll.config
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.dll
+C:\Users\Matthew\Desktop\Telos\Mobile Clients\app1 - Oratorju\OratorjuMSSPService\OratorjuMSSPService\bin\OratorjuMSSPService.pdb

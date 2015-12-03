@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="OratorjuMSSPService.OratorjuMSSP" CodeBehind="OratorjuMSSP.svc.cs" %>
